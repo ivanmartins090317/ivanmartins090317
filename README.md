@@ -5,7 +5,7 @@
 I'm a **Software Developer** with a degree in Engineering and a passion for technology. I like to solve problems through innovation, creating efficient and impactful solutions. Always looking for new challenges, I'm committed to evolving and making a difference through technology🚀.
 
 <p align="left">
-    <a href="https://ivan-martins.netlify.app/?sub_confirmation=1">
+    <a href="https://portfolio-ivanmartins.vercel.app/?sub_confirmation=1">
         <img 
             alt="website" 
             title="lets talk" 
